@@ -1,0 +1,38 @@
+
+body {
+  background-color: #969690;
+}
+
+.centered {
+    padding-top: 150px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #e24545;
+  background-color: #f3e525e1;
+}
+.lead{
+  color:rgb(62, 107, 204);
+  font-weight:bold;
+  font-size:20px;
+
+}
+
+.container{
+
+background-color: rgb(241, 208, 18);
+ margin:10 10 10 10;
+
+
+
+}
+.btn{
+
+   background-color:rgba(15, 14, 14, 0.842);
+   border-radius:17px;
+
+}
+
